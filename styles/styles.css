@@ -4,6 +4,7 @@ nav {
     justify-content: space-around;
     margin-top: 20px;
     text-decoration: none;
+    text-align: center;
 }
 
 section {
@@ -15,4 +16,5 @@ section {
 
 h1 {
     font-size: 2em;
+    text-align: center;
 }
